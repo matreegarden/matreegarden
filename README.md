@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @matreegarden
+- 👀 I’m interested in Financial Mathematics and Epidemic Modelling
+- 🌱 I’m currently studying Mathematics at TUM
+- 📚 My thesis is "Meta-population model of epidemic spreading and diffusive transport"
